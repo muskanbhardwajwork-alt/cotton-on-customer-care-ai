@@ -1,11 +1,9 @@
 # Cotton On AI Customer Support Assistant (PoC)
 
-**Name:** Muskan Bhardwaj
-**Student ID:** S4111042
-**Course:** ISYS3467 - Assessment 2, PoC Option 1 (AI Customer Support Assistant for Retail)
+ PoC (AI Customer Support Assistant for Retail)
 **AI tool:** Google AI Studio (Build) with Gemini
 
-## (b) Short description of the solution
+##  Short description of the solution
 
 A web chatbot for Cotton On's online customer care. Gemini reads each customer message and matches it to one of 17 policy topics in a structured knowledge base.
 
