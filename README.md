@@ -22,8 +22,7 @@ Tickets are simulated for this demo, and the bot has no access to orders or paym
 
 ## How to run
 
-1. **In Google AI Studio:** open the project in AI Studio Build and press Run. It works there with the built-in Gemini access.
-2. **From this zip (needs a recent Node.js, tested on Node 22):**
+
    1. Unzip and open a terminal in the folder.
    2. Run `npm install`. The included `.npmrc` sets `legacy-peer-deps=true`, because the generated `package.json` has a version conflict between `vite` and `esbuild` that a plain install would otherwise reject.
    3. Copy `.env.example` to `.env` and replace `MY_GEMINI_API_KEY` with your own Gemini API key.
