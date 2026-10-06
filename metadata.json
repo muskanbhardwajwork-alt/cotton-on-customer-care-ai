@@ -1,0 +1,6 @@
+{
+  "name": "Cotton On Customer Care AI",
+  "description": "Customer support chatbot for Cotton On Australia with structured knowledge base and intelligent human escalation powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
